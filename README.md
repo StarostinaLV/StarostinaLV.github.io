@@ -1,2 +1,8 @@
 # StarostinaLV.github.io
-Projects
+# Data Scientist
+
+### Education
+Data Scientist,
+Engineers degree in Electric drive and automation
+
+### Projects
