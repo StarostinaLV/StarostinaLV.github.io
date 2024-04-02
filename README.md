@@ -5,4 +5,6 @@
 Data Scientist,
 Engineers degree in Electric drive and automation
 
-### Projects
+### Data science projects
+
+#[Time series analysis](https://github.com/StarostinaLV/Time-series/tree/main)
