@@ -11,3 +11,5 @@ Engineers degree in Electric drive and automation
 ## [Management of data science projects](https://github.com/StarostinaLV/Management-of-DS-projects)
 ## [Recommender systems](https://github.com/StarostinaLV/Recommender-systems)
 ## [Statistics with Python](https://github.com/StarostinaLV/Statistics-with-Python)
+## [Web-scraping](https://github.com/StarostinaLV/Web-scraping/tree/main)
+## [Geo-classifier with Pandas](https://github.com/StarostinaLV/Geo-classifier-with-Pandas)
