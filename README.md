@@ -10,3 +10,4 @@ Engineers degree in Electric drive and automation
 ## [Time series analysis](https://github.com/StarostinaLV/Time-series/tree/main)
 ## [Management of data science projects](https://github.com/StarostinaLV/Management-of-DS-projects)
 ## [Recommender systems](https://github.com/StarostinaLV/Recommender-systems)
+## [Statistics with Python](https://github.com/StarostinaLV/Statistics-with-Python)
