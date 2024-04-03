@@ -13,3 +13,4 @@ Engineers degree in Electric drive and automation
 ## [Statistics with Python](https://github.com/StarostinaLV/Statistics-with-Python)
 ## [Web-scraping](https://github.com/StarostinaLV/Web-scraping/tree/main)
 ## [Geo-classifier with Pandas](https://github.com/StarostinaLV/Geo-classifier-with-Pandas)
+## [Regular expressions](https://github.com/StarostinaLV/Regular-expressions)
