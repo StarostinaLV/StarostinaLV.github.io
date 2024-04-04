@@ -16,3 +16,4 @@ Engineers degree in Electric drive and automation
 ## [Regular expressions](https://github.com/StarostinaLV/Regular-expressions)
 ## [Classical machine learning](https://github.com/StarostinaLV/Classical-machine-learning/tree/main)
 ## [Natural language processing](https://github.com/StarostinaLV/Natural-language-processing/tree/main)
+## [Computer vision](https://github.com/StarostinaLV/Computer-vision/tree/main)
