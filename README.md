@@ -1,8 +1,8 @@
 
 # Data Scientist
 # МОЙ СТЕК:
-Pytho, Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Requests, BeautifulSoup, Time, NLTK, Re, Pymorphy2, Pymystem3, Genism, Wordcloud, Pytorch, Cv2, PIL, Keras, Pyspark
-SQL, PostgreSQL, DBeaver
+Python, Numpy, Pandas, Sklearn, Scipy, Matplotlib, Seaborn, Requests, BeautifulSoup, Time, NLTK, Re, Pymorphy2, Pymystem3, Genism, Wordcloud, Pytorch, Cv2, PIL, Keras, Pyspark,
+SQL, PostgreSQL, DBeaver,
 Tableau
 
 # Education
