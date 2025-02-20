@@ -7,6 +7,8 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 Data Scientist,
 Engineers degree in Electric drive and automation
 
+# [Certificates](https://github.com/StarostinaLV/StarostinaLV.github.io/tree/main/Certificates)
+
 # Data science projects
 
 ## [Time series analysis](https://github.com/StarostinaLV/Time-series/tree/main)
