@@ -3,6 +3,8 @@
 # Stack
 SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, Pymorphy2, Matplotlib, Seaborn, Sklearn, Pymystem3, Genism, Pytorch, Keras, Cv2, PIL, Pyspark, Surprise, Requests, BeautifulSoup, Time
 
+# [Resume](https://github.com/StarostinaLV/StarostinaLV.github.io/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%20%D0%9B.%D0%92_DS.pdf)
+
 # Education
 Data Scientist,
 Engineers degree in Electric drive and automation
