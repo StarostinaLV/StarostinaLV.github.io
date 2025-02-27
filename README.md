@@ -6,11 +6,10 @@ Data Scientist
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd2czg4bTlzem91bWh6Zmp3czUwc3pxMWVsdDc3MmxkN28xc2tiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" width="200" height="200"/>
 </div>
 
+## About me
 Hi! My name is Lilia Starostina, and I am a budding Data Scientist.
 
-
-
-I hold a diploma in Electrical Engineering and have built a diverse career spanning teaching and scientific research at universities, as well as engineering roles in the mining industry. In recent years, I discovered my passion for Data Science, completed specialized training in this field, and decided to focus on data analysis as the next step in my professional journey. I am now open to collaboration on data science projects and actively seeking opportunities to apply my skills in this dynamic field.
+I hold a diploma in Electrical Engineering and have built a diverse career spanning teaching and scientific research at universities, as well as engineering roles in the mining industry. In recent years, I discovered my passion for Data Science, completed specialized training in this field, and decided to focus on data analysis as the next step in my professional journey. I am now open to collaboration on data science projects, particularly those involving Natural Language Processing (NLP) and Time Series Analysis, and actively seeking opportunities to apply my skills in this dynamic field!
 
 ## Stack
 SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, Pymorphy2, Matplotlib, Seaborn, Sklearn, Pymystem3, Genism, Pytorch, Keras, Cv2, PIL, Pyspark, Surprise, Requests, BeautifulSoup, Time.
@@ -61,8 +60,6 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 • [Computer vision](https://github.com/StarostinaLV/Computer-vision/tree/main)
 
-## About me
-With a background in the education field and the mining industry, I transitioned into data science after completing comprehensive training at Netology LLC. I have a strong foundation in data collection and analysis related to the operation of industrial equipment and data for scientific research in the field of energetics, as well as experience in writing scientific articles. I am passionate about leveraging my profession development in data analytics to drive insights and innovations.
 
 ## My contacts
 • l.v.starostina2014@gmail.com
