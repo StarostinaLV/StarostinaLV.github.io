@@ -1,5 +1,14 @@
-# Data Scientist
+<h1 style="theader" align="center">
+Data Scientist
+</h1>
+
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd2czg4bTlzem91bWh6Zmp3czUwc3pxMWVsdDc3MmxkN28xc2tiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif" width="200" height="200"/>
+</div>
+
 Hi! My name is Lilia Starostina, and I am a budding Data Scientist.
+
+
 
 I hold a diploma in Electrical Engineering and have built a diverse career spanning teaching and scientific research at universities, as well as engineering roles in the mining industry. In recent years, I discovered my passion for Data Science, completed specialized training in this field, and decided to focus on data analysis as the next step in my professional journey. I am now open to collaboration on data science projects and actively seeking opportunities to apply my skills in this dynamic field.
 
@@ -56,8 +65,15 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 With a background in the education field and the mining industry, I transitioned into data science after completing comprehensive training at Netology LLC. I have a strong foundation in data collection and analysis related to the operation of industrial equipment and data for scientific research in the field of energetics, as well as experience in writing scientific articles. I am passionate about leveraging my profession development in data analytics to drive insights and innovations.
 
 ## My contacts
-• Telegram: @Lily_Val
+• l.v.starostina2014@gmail.com
 
-• LinkedIn: https://www.linkedin.com/in/lilia-starostina-b3a49b226
+• [Resume](https://github.com/StarostinaLV/StarostinaLV.github.io/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%20%D0%9B.%D0%92_DS.pdf)
 
-• [Resume] (https://github.com/StarostinaLV/StarostinaLV.github.io/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%20%D0%9B.%D0%92_DS.pdf)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/lilia-starostina-b3a49b226">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Lily_Val">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
