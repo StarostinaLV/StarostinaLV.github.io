@@ -40,7 +40,7 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 • [Time series analysis](https://github.com/StarostinaLV/Time-series/tree/main)
 
-• [SQL queries for air transportation data analysis (PostgreSQL](https://github.com/StarostinaLV/SQL)
+• [SQL queries for air transportation data analysis (PostgreSQL)](https://github.com/StarostinaLV/SQL)
 
 • [Management of data science projects](https://github.com/StarostinaLV/Management-of-DS-projects)
 
