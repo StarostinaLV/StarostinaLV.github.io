@@ -25,9 +25,19 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 •	Competent in working with text, image, and time series data;
 
-•	Developed recommendation systems using collaborative filtering and content-based methods;
-
 •	Strong foundation in classical machine learning models and feature engineering.
+
+## I possess the following skills: 
+
+• Selecting and implementing classical machine learning algorithms tailored to specific tasks;
+
+• Performing feature selection and feature engineering for machine learning models;
+
+• Developing recommendation systems using collaborative filtering and content-based methods;
+
+• Solving Computer Vision tasks, such as image classification, segmentation, and object detection;
+
+• Training language models and working with attention mechanisms.
 
 ## Education
 • Data Scientist (2025);
