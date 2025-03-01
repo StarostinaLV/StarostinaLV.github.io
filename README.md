@@ -66,7 +66,9 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 • [Classical machine learning](https://github.com/StarostinaLV/Classical-machine-learning/tree/main)
 
-• [Natural language processing](https://github.com/StarostinaLV/Natural-language-processing/tree/main)
+• [Topic modeling and sentiment classification of reviews based on classical ML algorithms](https://github.com/StarostinaLV/Topic-modeling-and-sentiment-classification-of-review-based-on-ML-algo)
+
+• [Translation of phrases using the attention mechanism](https://github.com/StarostinaLV/Translation-of-phrases-using-the-attention-mechanism/tree/main)
 
 • [Computer vision](https://github.com/StarostinaLV/Computer-vision/tree/main)
 
