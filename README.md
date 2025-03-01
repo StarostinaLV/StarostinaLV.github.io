@@ -70,7 +70,13 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 • [Translation of phrases using the attention mechanism](https://github.com/StarostinaLV/Translation-of-phrases-using-the-attention-mechanism/tree/main)
 
-• [Computer vision](https://github.com/StarostinaLV/Computer-vision/tree/main)
+• [Segmentation of objects in an image](https://github.com/StarostinaLV/Segmentation-of-objects-in-an-image/tree/main)
+
+• [Blood cell image detection](https://github.com/StarostinaLV/Blood-cell-image-detection)
+
+• [Image Classification of the "Cats vs Dogs" Dataset](https://github.com/StarostinaLV/Image-Classification-of-the-CatsvsDogs-Dataset)
+
+• [Quality improving of a NN training for image classification](https://github.com/StarostinaLV/Quality-improving-of-a-NN-training-for-image-classification)
 
 
 ## My contacts
