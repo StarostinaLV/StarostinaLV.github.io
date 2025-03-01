@@ -48,9 +48,32 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 ## Data science projects
 
-• [Time series analysis](https://github.com/StarostinaLV/Time-series/tree/main)
+Computer Vision
+
+• [Segmentation of objects in an image](https://github.com/StarostinaLV/Segmentation-of-objects-in-an-image/tree/main)
+
+• [Blood cell image detection](https://github.com/StarostinaLV/Blood-cell-image-detection)
+
+• [Image Classification of the "Cats vs Dogs" Dataset](https://github.com/StarostinaLV/Image-Classification-of-the-CatsvsDogs-Dataset)
+
+• [Quality improving of a NN training for image classification](https://github.com/StarostinaLV/Quality-improving-of-a-NN-training-for-image-classification)
+
+• [Handwriting recognition using the MNIST database](https://github.com/StarostinaLV/Handwriting-recognition-using-the-MNIST-database/blob/main/README.md)
+
+Natural Language Processing
+
+• [Topic modeling and sentiment classification of reviews based on classical ML algorithms](https://github.com/StarostinaLV/Topic-modeling-and-sentiment-classification-of-review-based-on-ML-algo)
+
+• [Translation of phrases using the attention mechanism](https://github.com/StarostinaLV/Translation-of-phrases-using-the-attention-mechanism/tree/main)
+
+SQL
 
 • [SQL queries for air transportation data analysis (PostgreSQL)](https://github.com/StarostinaLV/SQL)
+
+Time series analysis
+
+• [Time series analysis](https://github.com/StarostinaLV/Time-series/tree/main)
+
 
 • [Management of data science projects](https://github.com/StarostinaLV/Management-of-DS-projects)
 
@@ -66,17 +89,9 @@ SQL, Python, библиотеки: Numpy, Pandas, SciPy, Statsmodels, NLTK, Re, 
 
 • [Classical machine learning](https://github.com/StarostinaLV/Classical-machine-learning/tree/main)
 
-• [Topic modeling and sentiment classification of reviews based on classical ML algorithms](https://github.com/StarostinaLV/Topic-modeling-and-sentiment-classification-of-review-based-on-ML-algo)
 
-• [Translation of phrases using the attention mechanism](https://github.com/StarostinaLV/Translation-of-phrases-using-the-attention-mechanism/tree/main)
 
-• [Segmentation of objects in an image](https://github.com/StarostinaLV/Segmentation-of-objects-in-an-image/tree/main)
 
-• [Blood cell image detection](https://github.com/StarostinaLV/Blood-cell-image-detection)
-
-• [Image Classification of the "Cats vs Dogs" Dataset](https://github.com/StarostinaLV/Image-Classification-of-the-CatsvsDogs-Dataset)
-
-• [Quality improving of a NN training for image classification](https://github.com/StarostinaLV/Quality-improving-of-a-NN-training-for-image-classification)
 
 
 ## My contacts
