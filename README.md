@@ -74,6 +74,11 @@ Time series analysis
 
 • [Analysis of stationary and non-stationary time series](https://github.com/StarostinaLV/Time-series)
 
+Big Data with PySpark
+
+• [Logistic Regression Model for Iris Flower Classification Using PoSpark](https://github.com/StarostinaLV/Logistic-Regression-for-Iris-Flower-Classification-Using-PySpark/tree/main)
+
+Other projects:
 
 • [Management of data science projects](https://github.com/StarostinaLV/Management-of-DS-projects)
 
@@ -82,8 +87,6 @@ Time series analysis
 • [Statistics with Python](https://github.com/StarostinaLV/Statistics-with-Python)
 
 • [Web-scraping](https://github.com/StarostinaLV/Web-scraping/tree/main)
-
-• [Geo-classifier with Pandas](https://github.com/StarostinaLV/Geo-classifier-with-Pandas)
 
 • [Regular expressions](https://github.com/StarostinaLV/Regular-expressions)
 
@@ -98,7 +101,6 @@ Time series analysis
 • l.v.starostina2014@gmail.com
 
 • [Resume](https://github.com/StarostinaLV/StarostinaLV.github.io/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%A1%D1%82%D0%B0%D1%80%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B0%20%D0%9B.%D0%92_DS.pdf)
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/lilia-starostina-b3a49b226">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
