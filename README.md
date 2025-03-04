@@ -72,7 +72,7 @@ SQL
 
 Time series analysis
 
-• [Analysis of stationary and non-stationary time series](https://github.com/StarostinaLV/Time-series/tree/main)
+• [Analysis of stationary and non-stationary time series](https://github.com/StarostinaLV/Time-series)
 
 
 • [Management of data science projects](https://github.com/StarostinaLV/Management-of-DS-projects)
